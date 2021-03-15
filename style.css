@@ -1,0 +1,29 @@
+.intro {
+    background: linear-gradient(135deg, rgba(203,96,179,1) 0%, rgba(193,70,161,1) 26%, rgba(168,0,119,1) 51%, rgba(219,54,164,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cb60b3', endColorstr='#db36a4', GradientType=1 );
+}
+
+.quiz {
+    background: linear-gradient(to right, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 12%, rgba(102,102,102,1) 25%, rgba(71,71,71,1) 39%, rgba(0,0,0,1) 51%, rgba(17,17,17,1) 60%, rgba(43,43,43,1) 76%, rgba(44,44,44,1) 82%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );
+}
+
+.intro h2 {
+    font-weight: bold;
+    color: #FFFFFF;
+    text-shadow: 3px 5px 2px #474747;
+}
+
+.intro > .container {
+    background-image: url("ufo-flying.svg");
+}
+
+.container button {
+    background-image: url("ufo-flying.svg");
+    background-repeat: no-repeat;
+    background-position: left right;   
+    background-size: 75px;   
+    width: 170px;       
+    background-color:rgba(168,0,119,1) !important;
+}
+
