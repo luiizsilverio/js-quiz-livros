@@ -19,7 +19,7 @@ A aplicação pode ser acessada [aqui](https://js-quiz-livros.netlify.app/).<br 
 * <ins>CSS</ins>
 
 ## :camera_flash: Screenshots
-![](https://github.com/luiizsilverio/js-weather/blob/master/screenshot.png)
+![](https://github.com/luiizsilverio/js-quiz-livros/blob/master/screenshot.png)
 
 ## :balance_scale: Licença
 Este projeto está licenciado sob a [licença MIT](LICENSE).
